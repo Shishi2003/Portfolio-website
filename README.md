@@ -32,7 +32,7 @@ development skills without using external libraries or frameworks.
 
 
 ### Live Demo: 
-https://shishi2003.github.io/SCT_WD_01/
+ https://shishi2003.github.io/Portfolio-website/
 
 ---
 
